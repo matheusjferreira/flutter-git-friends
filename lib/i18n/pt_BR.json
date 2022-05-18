@@ -1,0 +1,18 @@
+{
+    "git_friends": "Git Friends",
+    "hello_user": "Olá, %s",
+    "welcome_back": "Bem vindo de volta!",
+    "search": "Procurar...",
+    "category": "Categoria",
+    "see_all": "Ver todos",
+    "dart": "Dart",
+    "java": "Java",
+    "linux": "Linux",
+    "c": "C",
+    "my_friends": "Meus amigos",
+    "commits": "commits",
+    "about": "Sobre",
+    "about_text": "Este projeto foi desenvolvido como teste para comprovar conhecimentos relacionados ao flutter.",
+    "author" : "Desenvolvedor: Matheus Ferreira.",
+    "github" : "Github() => matheusjferreira;"
+}
