@@ -108,6 +108,10 @@ Packages:
 * flutter & dart;
 * android emulator;
 
+> ## Special Thanks:
+
+* Mauro Johann (made me an excellent tutorial on bloc), github: https://github.com/maurojohann;
+
 > ## License:
 
     MIT License
