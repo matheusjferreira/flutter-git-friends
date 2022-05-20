@@ -79,6 +79,9 @@ A simple application that provides data from github friends, among them their co
     ....├─ app_widget.dart
     ....└─ main.dart
 
+> ## Endpoint:
+api: https://api.github.com/users;
+
 > ## BDD requirements in:
 
     root
