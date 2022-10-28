@@ -92,7 +92,7 @@ api: https://api.github.com/users;
 
 > ## Dependencies:
 
-Flutter version: 3.0.0;<br>
+Flutter version: 3.3.6;<br>
 Packages:
 
     dio: ^4.0.6
